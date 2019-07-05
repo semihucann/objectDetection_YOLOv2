@@ -23,7 +23,7 @@ for i in range(len(result)):
 		imgcv = image2
 
 
-cv2.imshow("cezeri", imgcv)
+cv2.imshow("result", imgcv)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
