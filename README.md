@@ -18,9 +18,9 @@ options = {"model": "CFG_FILE_EXTENSION", "load": "WEIGHT_FILE_EXTENSION", "thre
 `$ flow --model cfg/tiny-yolo.cfg --load bin/tiny-yolo.weights`
 
 ### Tiny Yolo
--Dataset:	COCO trainval	
--mAp    :23.7	 Bn	
--FLOPS  :5.41Bn	
+- Dataset:	COCO trainval	
+- mAp    :23.7	 Bn	
+- FLOPS  :5.41Bn	
 
 Link for pretrained weight 
 
