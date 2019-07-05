@@ -17,6 +17,8 @@ options = {"model": "CFG_FILE_EXTENSION", "load": "WEIGHT_FILE_EXTENSION", "thre
 
 `$ flow --model cfg/tiny-yolo.cfg --load bin/tiny-yolo.weights`
 
+After editing paths in python codes, you can run any python code in repo.
+
 ### Tiny Yolo
 - Dataset:	COCO trainval	
 - mAp    :23.7	 Bn	
@@ -30,7 +32,7 @@ Link for cfg file
 
 https://github.com/pjreddie/darknet/blob/master/cfg/yolov2-tiny.cfg
 
-## Requirement Libraries
+## Dependencies
 tensorflow (1.10.0)
 
 
