@@ -2,7 +2,6 @@
 
 ## Usage
 `$ git clone https://github.com/thtrieu/darkflow.git` 
-
 `$ cd darkflow`
 `$ wget https://pjreddie.com/media/files/yolov2-tiny.weights`
 `$ wget https://github.com/pjreddie/darknet/blob/master/cfg/yolov2-tiny.cfg`
