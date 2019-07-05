@@ -14,6 +14,7 @@
 Change codes as your file paths on CFG_FILE_EXTENSION, WEIGHT_FILE_EXTENSION and IMAGE_PATH  in objectDetection_yolo_v2
 ##### For example
 options = {"model": "CFG_FILE_EXTENSION", "load": "WEIGHT_FILE_EXTENSION", "threshold": 0.1}
+
 `$ flow --model cfg/tiny-yolo.cfg --load bin/tiny-yolo.weights`
 
 ### Tiny Yolo
