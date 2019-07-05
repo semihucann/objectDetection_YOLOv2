@@ -1,4 +1,5 @@
 # ObjectDetection with YOLOv2
+You only look once (YOLO) is a state-of-the-art, real-time object detection system. 
 
 ## Usage
 `$ git clone https://github.com/thtrieu/darkflow.git` 
