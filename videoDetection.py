@@ -28,7 +28,7 @@ while(True):
 			imgcv = image2
 
 
-	cv2.imshow("cezeri", imgcv)
+	cv2.imshow("result", imgcv)
 	
 	if cv2.waitKey(1) & 0xFF == ord('q'):
 		break
